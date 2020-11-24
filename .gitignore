@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+!/CutePanda.png
+.idea/.gitignore
+.idea/OpenCV-tutorials.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/vcs.xml
+*.png
